@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/acampssajpii/static/css/main.0557a44a.css",
-    "main.js": "/acampssajpii/static/js/main.a83f1db1.js",
-    "static/js/239.0f64e866.chunk.js": "/acampssajpii/static/js/239.0f64e866.chunk.js",
-    "static/js/213.b64969fd.chunk.js": "/acampssajpii/static/js/213.b64969fd.chunk.js",
-    "static/js/732.31d7258a.chunk.js": "/acampssajpii/static/js/732.31d7258a.chunk.js",
-    "static/js/453.96fd2492.chunk.js": "/acampssajpii/static/js/453.96fd2492.chunk.js",
-    "static/media/fa-solid-900.ttf": "/acampssajpii/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
-    "static/media/fa-brands-400.ttf": "/acampssajpii/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
-    "static/media/fa-solid-900.woff2": "/acampssajpii/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
-    "static/media/fa-brands-400.woff2": "/acampssajpii/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
-    "static/media/fa-regular-400.ttf": "/acampssajpii/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
-    "static/media/fa-regular-400.woff2": "/acampssajpii/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
-    "static/media/fa-v4compatibility.ttf": "/acampssajpii/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
-    "static/media/fa-v4compatibility.woff2": "/acampssajpii/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
-    "index.html": "/acampssajpii/index.html",
-    "main.0557a44a.css.map": "/acampssajpii/static/css/main.0557a44a.css.map",
-    "main.a83f1db1.js.map": "/acampssajpii/static/js/main.a83f1db1.js.map",
-    "239.0f64e866.chunk.js.map": "/acampssajpii/static/js/239.0f64e866.chunk.js.map",
-    "213.b64969fd.chunk.js.map": "/acampssajpii/static/js/213.b64969fd.chunk.js.map",
-    "732.31d7258a.chunk.js.map": "/acampssajpii/static/js/732.31d7258a.chunk.js.map",
-    "453.96fd2492.chunk.js.map": "/acampssajpii/static/js/453.96fd2492.chunk.js.map"
+    "main.css": "/rodriguejmj/acampssajpii/static/css/main.fb6458c3.css",
+    "main.js": "/rodriguejmj/acampssajpii/static/js/main.eeb98261.js",
+    "static/js/239.0f64e866.chunk.js": "/rodriguejmj/acampssajpii/static/js/239.0f64e866.chunk.js",
+    "static/js/213.b64969fd.chunk.js": "/rodriguejmj/acampssajpii/static/js/213.b64969fd.chunk.js",
+    "static/js/732.31d7258a.chunk.js": "/rodriguejmj/acampssajpii/static/js/732.31d7258a.chunk.js",
+    "static/js/453.96fd2492.chunk.js": "/rodriguejmj/acampssajpii/static/js/453.96fd2492.chunk.js",
+    "static/media/fa-solid-900.ttf": "/rodriguejmj/acampssajpii/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/rodriguejmj/acampssajpii/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/rodriguejmj/acampssajpii/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/rodriguejmj/acampssajpii/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/rodriguejmj/acampssajpii/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/rodriguejmj/acampssajpii/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/rodriguejmj/acampssajpii/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/rodriguejmj/acampssajpii/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/rodriguejmj/acampssajpii/index.html",
+    "main.fb6458c3.css.map": "/rodriguejmj/acampssajpii/static/css/main.fb6458c3.css.map",
+    "main.eeb98261.js.map": "/rodriguejmj/acampssajpii/static/js/main.eeb98261.js.map",
+    "239.0f64e866.chunk.js.map": "/rodriguejmj/acampssajpii/static/js/239.0f64e866.chunk.js.map",
+    "213.b64969fd.chunk.js.map": "/rodriguejmj/acampssajpii/static/js/213.b64969fd.chunk.js.map",
+    "732.31d7258a.chunk.js.map": "/rodriguejmj/acampssajpii/static/js/732.31d7258a.chunk.js.map",
+    "453.96fd2492.chunk.js.map": "/rodriguejmj/acampssajpii/static/js/453.96fd2492.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0557a44a.css",
-    "static/js/main.a83f1db1.js"
+    "static/css/main.fb6458c3.css",
+    "static/js/main.eeb98261.js"
   ]
 }
